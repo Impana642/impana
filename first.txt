@@ -1,2 +1,8 @@
 experiment number 1
 class 3b
+<<<<<<< Updated upstream
+=======
+this is experiment 3
+lab 3
+topic is stash
+>>>>>>> Stashed changes
