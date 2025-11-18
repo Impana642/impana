@@ -7,3 +7,4 @@ lab 3
 topic is stash
 >>>>>>> Stashed changes
 Learning experiment 5
+impana is a gud girl.
